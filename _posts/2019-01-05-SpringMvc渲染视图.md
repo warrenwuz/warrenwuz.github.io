@@ -8,8 +8,6 @@ header-img: img/post-bg-ios9-web.jpg
 catalog: true
 tags:
     - Spring
-    - Java
-    - Spring Mvc
 ---
 
 ## 视图解析
