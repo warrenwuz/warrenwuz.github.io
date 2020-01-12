@@ -7,7 +7,7 @@ description: "Every failure is leading towards success."
 keyword: "Warren, Warren Blog, 吴哲的博客, warrenwuz, 吴哲, Java, Spring, Mysql"
 url: "http://warrenwuz.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/warrenwuz/warrenwuz.github.io.git" # you code repository
+github_repo: "https://github.com/warrenwuz/repair.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
